@@ -1,4 +1,4 @@
-### Kali Linux RAT Kodları
+## Kali Linux RAT Kodları
 Buradaki kodu Kali Linux terminaline yazdığınızda kendi RAT'ınızı yapabilirsiniz.
 
 Bir terminal açın
